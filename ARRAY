@@ -1,0 +1,21 @@
+  //res.send('Hello World');
+    // let articles = [
+    //     {
+    //         id:1,
+    //         title: 'Article One',
+    //         author: 'Brad Traversy',
+    //         body: 'This is article one'
+    //     },
+    //     {
+    //         id:2,
+    //         title: 'Article Two',
+    //         author: 'John Doe',
+    //         body: 'This is article Two'
+    //     },
+    //     {
+    //         id:3,
+    //         title: 'Article Three',
+    //         author: 'Sharon Debby',
+    //         body: 'This is article Three'
+    //     }
+    // ];
